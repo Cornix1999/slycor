@@ -49,6 +49,8 @@
 
 Программа распространяется в виде скомпилированного установщика (`SLYCOR_Setup_0.1.0.exe`). Вся обработка файлов и авторизация происходят **исключительно локально на вашем ПК**.
 
+🔍 **[Проверить SLYCOR_Setup_0.1.0.exe на VirusTotal (Отчёт 1/70 — Undetected у всех ведущих антивирусов)](https://www.virustotal.com/gui/file/23f3f256e5fa647bcb36cf47aa6d6220004d07bef586770c55f65765877ad3bd)**
+
 <div align="center">
   <img src="assets/virustotal.png" alt="Отчет VirusTotal SLYCOR" width="85%" />
 </div>
@@ -84,7 +86,7 @@
 
 * **Current version:** `v0.1.0-alpha` (Public Alpha)
 * **Next (`v0.2`):** Built-in Cyberpunk File Manager, stack reordering, Friends & Groups sidebar blocks, and update notifier.
-* **Support & Early Access:** [Boosty](https://boosty.to/) *https://boosty.to/cornix*
+* **Support & Early Access:** [Boosty](https://boosty.to/cornix) [donationalerts] *(https://www.donationalerts.com/r/cornixen)*
 
 ---
 
