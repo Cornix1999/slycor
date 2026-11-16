@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="SLYCOR — Steam Showcase & Artwork Studio" width="100%" />
+<img src="banner.png" alt="SLYCOR — Steam Showcase & Artwork Studio" width="100%" />
 
 # ⚡ SLYCOR (v0.1.0-alpha)
 
@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-  <img src="assets/preview-ui.png" alt="Интерфейс SLYCOR Studio" width="95%" />
+  <img src="preview-ui.jpg" alt="Интерфейс SLYCOR Studio" width="95%" />
 </div>
 
 ---
@@ -52,7 +52,7 @@
 🔍 **[Проверить SLYCOR_Setup_0.1.0.exe на VirusTotal (Отчёт 1/70 — Undetected у всех ведущих антивирусов)](https://www.virustotal.com/gui/file/23f3f256e5fa647bcb36cf47aa6d6220004d07bef586770c55f65765877ad3bd)**
 
 <div align="center">
-  <img src="assets/virustotal.png" alt="Отчет VirusTotal SLYCOR" width="85%" />
+  <img src="virustotal.jpg" alt="Отчет VirusTotal SLYCOR" width="85%" />
 </div>
 
 > **⚠️ Примечание по Windows SmartScreen и антивирусам (False Positive):**
@@ -86,7 +86,8 @@
 
 * **Current version:** `v0.1.0-alpha` (Public Alpha)
 * **Next (`v0.2`):** Built-in Cyberpunk File Manager, stack reordering, Friends & Groups sidebar blocks, and update notifier.
-* **Support & Early Access:** [Boosty](https://boosty.to/cornix) [donationalerts] *(https://www.donationalerts.com/r/cornixen)*
+* **Support & Early Access:** [Boosty](https://boosty.to/cornix)
+* **Поддержать проект (без раннего доступа / Donate):** [DonationAlerts](https://www.donationalerts.com/r/cornixen)
 
 ---
 
