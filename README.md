@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-  <img src="preview-ui.jpg" alt="Интерфейс SLYCOR Studio" width="95%" />
+  <img src="preview-ui.png" alt="Интерфейс SLYCOR Studio" width="95%" />
 </div>
 
 ---
@@ -51,7 +51,7 @@
 🔍 **[Проверить SLYCOR_Setup_0.1.0.exe на VirusTotal (Отчёт 1/70 — Undetected у всех ведущих антивирусов)](https://www.virustotal.com/gui/file/23f3f256e5fa647bcb36cf47aa6d6220004d07bef586770c55f65765877ad3bd)**
 
 <div align="center">
-  <img src="virustotal.jpg" alt="Отчет VirusTotal SLYCOR" width="85%" />
+  <img src="virustotal.png" alt="Отчет VirusTotal SLYCOR" width="85%" />
 </div>
 
 > **⚠️ Примечание по Windows SmartScreen и антивирусам (False Positive):**
